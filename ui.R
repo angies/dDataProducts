@@ -22,7 +22,7 @@ shinyUI(fluidPage(
       radioButtons("plotType", "Plot type:",c("Scatter"="p","Line"="l")),
       sliderInput("dfSlider",label=h5("Degrees of Freedom"),min=3,max=10,value=3),
       wellPanel(
-         helpText( p(a("Basic Manual", href="http://rpubs.com/angies/56017",target="_blank")),
+         helpText( p(a("Basic Manual", href="http://rpubs.com/angies/56125",target="_blank")),
                    p(a("Source Code", href="https://github.com/angies/dDataProducts/tree/master",target="_blank")),
                    p(a("Presentation", href="http://angies.github.io/ddp_project/index.html#/",target="_blank"))
                  )
