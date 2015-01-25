@@ -11,7 +11,8 @@ Estimate Adjusted R Squared, which is a metric for evaluating the goodness of fi
 
 - The supplied data are from pressure dataset package <https://stat.ethz.ch/R-manual/R-patched/library/datasets/html/pressure.html>
 - The web App is available <https://ae2015.shinyapps.io/predict_pressure/>
-- A supporting presentation can be viewed <http://rpubs.com/angies/56017>.
+- A a basic user manual is available on line <http://rpubs.com/angies/56017>.
+- A supporting presentation can be viewed <http://angies.github.io/ddp_project/index.html#/>.
 
 
 ## References
